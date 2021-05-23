@@ -1,0 +1,45 @@
+{
+  "shortcut": {
+      "delSentence": "@",
+      "cursor": "^",
+      "escape": {
+          "enter": "$",
+          "area": {
+             "write": {
+               "save": 19,
+               "load": 15,
+               "new": 14,
+               "back": 27,
+               "exit": 24
+             },
+             "save": {
+               "up": 72,
+               "down": 80,
+               "fname_c": 6,
+               "enc_c": 5,
+               "dir_c": 4,
+               "select": 13,
+               "back": 27,
+               "save": 19 
+             },
+             "load": {
+               "up": 72,
+               "down": 80,
+               "enc_c": 5,
+               "dir_c": 4,
+               "select": 13,
+               "back": 27
+             }
+          }
+      }
+   },
+  "system": {
+      "version": "0.1-t"
+  },
+  "default": {
+      "fileName": "Unnamed",
+      "fileExt": "txt",
+      "fileEncoding": "UTF-8",
+      "directory": "C:/Users/ÁÖÇö±Ô/Desktop"
+   }
+}
